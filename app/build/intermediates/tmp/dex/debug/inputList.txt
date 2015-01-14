@@ -1,0 +1,7 @@
+/home/catalin/Documents/Dev/WeatherB/app/build/intermediates/classes/debug
+/home/catalin/Documents/Dev/WeatherB/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-70a1d25245c4aa649fe1f6403c454a51b3a0ae22.jar
+/home/catalin/Documents/Dev/WeatherB/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-0cc11d9c442df0c157f865512681384f06bc737a.jar
+/home/catalin/Documents/Dev/WeatherB/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-eec44f5a5bdde60e0d8ae232e6026258d9b9f4cd.jar
+/home/catalin/Documents/Dev/WeatherB/app/build/intermediates/pre-dexed/debug/classes-ffe2d2028f8da50242e6faa894541dca108243ce.jar
+/home/catalin/Documents/Dev/WeatherB/app/build/intermediates/pre-dexed/debug/Parse-1.8.1-696b16cf60f2839cba6db6a7b4e971163260274a.jar
+/home/catalin/Documents/Dev/WeatherB/app/build/intermediates/pre-dexed/debug/classes-da72e32890b4812994107c64d87c4d647f20d107.jar
